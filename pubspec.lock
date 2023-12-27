@@ -62,6 +62,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_fancy_tree_view:
+    dependency: "direct main"
+    description:
+      name: flutter_fancy_tree_view
+      sha256: f3883801aa2beedce285ffb7eac9b9d59fb7dcdd3fd71703dea60f3e4e1f29f2
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -83,6 +91,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.6.6"
+  graphview:
+    dependency: "direct main"
+    description:
+      name: graphview
+      sha256: bdba183583b23c30c71edea09ad5f0beef612572d3e39e855467a925bd08392f
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
   lints:
     dependency: transitive
     description:

@@ -10,6 +10,8 @@ dependencies:
   get: 4.6.6
   flutter: 
     sdk: flutter
+  graphview: ^1.2.0
+  flutter_fancy_tree_view: ^1.4.1
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
